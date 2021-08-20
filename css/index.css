@@ -1,7 +1,8 @@
 h1{
     text-align: center;
-    color: transparent;
+    /* color: transparent;
     background-color: rebeccapurple;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
+    color: rebeccapurple;
     font-family: cursive;
 }
